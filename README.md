@@ -1,3 +1,3 @@
-## React Bootstrap
+## React Weather App
 
-Bootstrap React project for Week 13 at Manchester Codes
+Weather App with live data. Still to add search functionality and some pretty CSS!
